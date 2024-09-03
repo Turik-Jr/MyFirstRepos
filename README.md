@@ -1,1 +1,1 @@
-This is my first repository. Here, my intention is to aggregate the personal porjects that I'm working on as a jorney of self-learning.
+This is my first repository. My intention here is to aggregate the personal projects I’m working on as part of my journey of self-learning.
